@@ -39,3 +39,5 @@ By removing the 9th graders, the school was able to stay competitive with the ot
   * **Scores by school type:** School type was not affected.
 
 ## Summary
+
+By removing the reading and math scores from Thomas High School, four changes to the analysis are Thomas High School Reading Passing Percentage Change, Thomas High School Math Passing Percentage Change, Thomas High School Overall Passing Percentage Change, and Thomas High School Ranking Change within the District. In summary, by removing the ninth graders, there was a drastic positive effect in the analysis of Thomas High School.
