@@ -30,16 +30,12 @@ By removing the 9th graders, the school was able to stay competitive with the ot
 
 * **How does replacing the ninth-grade scores affect the following:**
 
-  * **Math and reading scores by grade**
+  * **Math and reading scores by grade:** 10th, 11th, and 12th grades were not affected.
 
-  * **Scores by school spending**
-  
-   School spending stayed the same
+  * **Scores by school spending:** School spending stayed the same
  
-  * **Scores by school size**
+  * **Scores by school size:** School size stayed the same
 
-  * **Scores by school type**
+  * **Scores by school type:** School type was not affected.
 
-
-
-## Election Audit Summary
+## Summary
